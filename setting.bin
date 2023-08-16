@@ -1,0 +1,8 @@
+MSDatabase;path=Database\somsri.accdb,datatabase=somsri.accdb,tablename=product,product/tablename=product,staff/tablename=staff,customer/tablename=customer,promotion/tablename=promotions,savebill/tablename=save_bills,saveorder/tablename=save_orders,cancel_bill/tablename=save_cancel_bill,save_cancel_order/tablename=save_dell_order
+PCInfo;name=PexLabT2000,point_rate=0.0001
+Printer;set_paper=1,slip=Gainscha GS-2408D,haff=EPSON LQ-310 ESC/P2,full=EPSON LQ-310 ESC/P2,slip_set=80|300,haff_set=139|203,full_set=203|279
+TableFont;font1=Tahoma,font2=Angsana,size1=12,size2=14
+TableWidth;TshowCo=100|250|100|100|100|100,TsearchCo=100|200|100|100|100|100|100
+Branch;code=ss2532-33110-01|ss2532-33110-02|cc2532-33110-00
+PDFsetting;font1=Tahoma.ttf,font2=THSarabunNew.ttf,save_bills_dir=SaveBill/
+Company;name=ร้านสมศรี2,address=264/12 หมู่ 3 ต.หนองหญ้าลาด อ.กันทรลักษ์ จ.ศรีสะเกษ 33110,tel=โทรศัพท์ 086-2443413,093-3959340,cop_id=1330400217894

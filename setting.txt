@@ -1,0 +1,2 @@
+picpath;product=pic/product_pic/,customer=pic/customer_pic/,cop=pic/cop_pic/,admin=pic/admin_pic/
+database;db=
